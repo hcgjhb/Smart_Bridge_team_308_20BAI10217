@@ -12,3 +12,6 @@ https://github.com/hcgjhb/Smart_Bridge_team_308_20BAI10217/assets/86038001/c8a4f
 
 # Overview:
 Bird Species Classification is a machine learning project designed to identify and classify various bird species from images. The project aims to leverage state-of-the-art deep learning techniques to create an accurate and efficient bird species recognition system. By harnessing the power of artificial intelligence, this project seeks to contribute to the conservation and understanding of avian biodiversity.
+
+# Dataset link
+https://www.kaggle.com/datasets/akash2907/bird-species-classification
